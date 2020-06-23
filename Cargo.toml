@@ -1,0 +1,9 @@
+[package]
+name = "rusty-cli"
+version = "0.1.0"
+authors = ["RickyC0626 <rickychon99@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
